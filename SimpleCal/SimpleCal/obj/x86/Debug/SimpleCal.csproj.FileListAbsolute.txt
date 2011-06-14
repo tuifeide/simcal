@@ -1,0 +1,13 @@
+D:\P\SimpleCal\SimpleCal\bin\Debug\SimpleCal.exe
+D:\P\SimpleCal\SimpleCal\bin\Debug\SimpleCal.pdb
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\MainWindow.baml
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\MainWindow.g.cs
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\App.g.cs
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\SimpleCal_MarkupCompile.cache
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\SimpleCal.g.resources
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\SimpleCal.Properties.Resources.resources
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\SimpleCal.exe
+D:\P\SimpleCal\SimpleCal\obj\x86\Debug\SimpleCal.pdb
